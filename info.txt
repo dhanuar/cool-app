@@ -1,4 +1,8 @@
 aravind
 age 45
 male
+<<<<<<< HEAD
 working
+=======
+employied
+>>>>>>> refs/remotes/origin/main
